@@ -36,7 +36,7 @@ async def prayertimes(interaction: discord.Interaction):
 
                        Isha: 06:39'''
     )
-    embed.add_field(name="link to countdown of prayer time + daily updated prayer time", value= 'https://www.islamicfinder.org/world/saudi-arabia/108410/riyadh-prayer-times/')
+    embed.add_field(name="link to countdown of prayer time + daily updated prayer time", value= 'https://www.islamicfinder.org/world')
     await interaction.response.send_message(embed=embed)
 
 
