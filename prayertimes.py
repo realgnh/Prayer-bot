@@ -29,7 +29,7 @@ async def help(interaction: discord.Interaction):
 
 @client.command(name="gmt+3")
 async def time(ctx):
-    url = 'https://www.islamicfinder.org/world/saudi-arabia/108410/riyadh-prayer-times/'
+    url = 'https://www.islamicfinder.org/world/'
     
     
     response = requests.get(url)
