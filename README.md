@@ -1,13 +1,11 @@
-# Prayer-bot v1.1 (V2 IS OUT)
-discord prayer times bot
-This is an updated version of the bot that auto updates the prayer times daily (gmt+3 only for now)
-![image](https://github.com/realgnh/Prayer-bot/assets/150723285/431bcf5a-09c8-41b0-ab70-3944e45bfe00)
+# Prayer-bot V2
+discord bot that gives prayer times based on timezone
+Examples:
+![image](https://github.com/realgnh/Prayer-bot/assets/150723285/e69b3d9b-1fc1-4d2d-a448-0260f47586bd)
+![image](https://github.com/realgnh/Prayer-bot/assets/150723285/56878f2c-ab8e-40a8-b4ba-7f67d26263f3)
 
-
-
-
-sites to make the bot:
+How to make a bot on discord:
 https://www.youtube.com/watch?v=zrNloK9b1ro 
 https://discord.com/developers/applications
 
-working on adding all timezones in the next update inshallah
+working on a new project will be released in 2-3 days inshallah
