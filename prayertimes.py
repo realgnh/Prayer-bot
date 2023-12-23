@@ -44,7 +44,7 @@ async def time(ctx):
          upcomingprayers = None
         
          for i in weget.select('.prayerTiles'):
-            name = i.find('span', class_='prayername').gettext(strip=True)
+            name = i.find('span', class_='prayername').get_text(strip=True)
             time = i.find('span', class_='prayertime').get_text(strip=True)
             
             if 'fajr' in i.get('class', []):
