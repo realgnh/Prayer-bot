@@ -1,4 +1,4 @@
-# Prayer-bot v1.1 (CHECK RELEASES FOR BOT V2)
+# Prayer-bot v1.1 (V2 IS OUT)
 discord prayer times bot
 This is an updated version of the bot that auto updates the prayer times daily (gmt+3 only for now)
 ![image](https://github.com/realgnh/Prayer-bot/assets/150723285/431bcf5a-09c8-41b0-ab70-3944e45bfe00)
